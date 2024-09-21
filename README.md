@@ -1,6 +1,6 @@
 # Physically-based Gradients
 
-A repository for Krita gradients that are based on thin film interference effects (soap bubble). Download from [here](https://github.com/rjmoerland/physically-based-gradients/releases/download/v1.0/Interference_Gradients.bundle).
+A repository for Krita gradients that are based on thin film interference effects (soap bubble). Download from [here](https://github.com/rjmoerland/physically-based-gradients/releases/download/v1.1/Interference_Gradients.bundle).
 
 ## Contents
 
