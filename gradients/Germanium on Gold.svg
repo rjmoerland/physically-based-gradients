@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:krita="http://krita.org/namespaces/svg/krita">
+ <defs>
+  <color-profile xlink:href="C:/Program Files/Krita (x64)/share/color/icc/krita/ACEScg-elle-V4-g10.icc" local="b81c5e31fa1dc184d854cddeb9ea3f0e" name="ACEScg-elle-V4-g10.icc"/>
+ </defs>
+ <linearGradient id="Germanium on Gold" spreadMethod="pad" gradientUnits="objectBoundingBox">
+  <stop stop-opacity="1" stop-color="#ecc993 icc-color(ACEScg-elle-V4-g10.icc, 0.6463601589202881,0.46282538771629333,0.2672354280948639)" offset="0.08502834278092697" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc993 icc-color(ACEScg-elle-V4-g10.icc, 0.541294515132904,0.3312549889087677,0.22216551005840302)" offset="0.17039013004334777" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc993 icc-color(ACEScg-elle-V4-g10.icc, 0.48132026195526123,0.2734818458557129,0.20748810470104218)" offset="0.21307102367455819" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc993 icc-color(ACEScg-elle-V4-g10.icc, 0.41846364736557007,0.22360938787460327,0.19743916392326355)" offset="0.2557519173057686" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.3548738658428192,0.18290993571281433,0.19145548343658447)" offset="0.298432810936979" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.2929978668689728,0.15201953053474426,0.18895472586154938)" offset="0.3411137045681894" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.23536449670791626,0.1309340000152588,0.18937291204929352)" offset="0.3837945981993998" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.18433877825737,0.11908257752656937,0.19218921661376953)" offset="0.4264754918306102" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.14188385009765625,0.11545851826667786,0.19693797826766968)" offset="0.4691563854618206" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc992 icc-color(ACEScg-elle-V4-g10.icc, 0.10936959832906723,0.11877933889627457,0.2032124400138855)" offset="0.511837279093031" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.08746068179607391,0.12764811515808105,0.21066297590732574)" offset="0.5545181727242414" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.07610256224870682,0.1406913846731186,0.2189926654100418)" offset="0.5971990663554518" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.07460054755210876,0.15666045248508453,0.22795110940933228)" offset="0.6398799599866623" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.08176954835653305,0.1744913011789322,0.23732878267765045)" offset="0.6825608536178727" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.26145219802856445,0.3083206117153168,0.3071962594985962)" offset="0.9996665555185061" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#ecc892 icc-color(ACEScg-elle-V4-g10.icc, 0.2616616487503052,0.30844151973724365,0.30726343393325806)" offset="1.0" krita:stop-type="color-stop"/>
+ </linearGradient>
+</svg>

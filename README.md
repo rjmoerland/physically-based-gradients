@@ -8,41 +8,40 @@ Visual representation:
 
 ![gradients](gradients/gradients.png)
 
-The list below gives the gradients contained in this repository, with the sources of the material constants that created them. In all cases, the incident medium is air, approximated by n = 1.0. The materials are listed as base layer first, thin film second (air final).
+The list below gives the gradients contained in this repository, with the sources of the material constants that created them. In all cases, the incident medium is air, approximated by n = 1.0. The materials are listed as base layer first, thin film second, optional third medium, air final.
 
+- Car Paint (Zoom 1, 2, 3)
+    - Aluminium [7], MgF approximated by n = 1.37, Chromium [3]
 - Copper with Oxide
-    - Copper refractive index from [1]
-    - Copper oxide refractive index from [2], simplified by linearly interpolating Fig. 8.
+    - Copper [1], Copper oxide [2], simplified by linearly interpolating Fig. 8.
 - Copper with water
-    - Copper refractive index from [1]
-    - Water approximated by n = 1.33
+    - Copper [1], Water approximated by n = 1.33
+- Germanium on Gold
+    - Gold [1], Germanium [6]
+- Gold Film
+    - Aluminium [7], MgF approximated by n = 1.37, Gold [1] 
 - Gold with water
-    - Gold refractive index from [1]
-    - Water approximated by n = 1.33
+    - Gold [1], Water approximated by n = 1.33
 - Heated Iron
-    - Iron refractive index from [3]
-    - Iron oxide refractive index from [4]
+    - Iron [3], Iron oxide [4]
 - Iron with Oil
-    - Iron refractive index from [3]
-    - Oil approximated by n = 1.6
+    - Iron [3], Oil approximated by n = 1.6
 - Oil spill
-    - Oil approximated by n = 1.6
-    - Water approximated by n = 1.33
+    - Water approximated by n = 1.33, Oil approximated by n = 1.6
+- Oxide 1
+    - Aluminium [7], Iron Oxide [4], Chromium [3]
+- Oxide 2
+    - Aluminium [7], Copper oxide [2], Chromium [3]
 - Silicon with Silicon Oxide
-    - Silicon refractive index from [5]
-    - Silicon Oxide approximated by n = 1.46
+    - Silicon Oxide approximated by n = 1.46, Silicon [5]
 - Soap Bubble
-    - Air approximated by n = 1.0
-    - Soapy water approximated by n = 1.4
+    - Air approximated by n = 1.0, Soapy water approximated by n = 1.4
 - Space helmet
-    - Plastic approximated by n = 1.5
-    - Gold refractive index from [1]
+    - Plastic approximated by n = 1.5, Gold [1]
 - Thin Copper
-    - Plastic approximated by n = 1.5
-    - Copper refractive index from [1]
+    - Plastic approximated by n = 1.5, Copper [1]
 - Thin Iron
-    - Plastic approximated by n = 1.5
-    - Iron refractive index from [3]
+    - Plastic approximated by n = 1.5, Iron [3]
 
 ## Approach
 
@@ -60,3 +59,5 @@ Since gradients with 3000 stops are not very efficient, a subsequent post-proces
 3. [P. B. Johnson and R. W. Christy, Phys. Rev. B 9, 5056-5070 (1974)](https://doi.org/10.1103/PhysRevB.9.5056) via https://refractiveindex.info
 4. [M. R. Querry, Contractor Report CRDC-CR-85034 (1985)](https://apps.dtic.mil/sti/citations/ADA158623) via https://refractiveindex.info
 5. [D. E. Aspnes and A. A. Studna, Phys. Rev. B 27, 985-1009 (1983)](https://doi.org/10.1103/PhysRevB.27.985) via https://refractiveindex.info
+6. [G.E. Jellison Jr., Opt. Mat. 1, 151-160 (1992)](https://doi.org/10.1016/0925-3467(92)90022-F) via https://refractiveindex.info
+7. [A. D. Rakić, Appl. Opt. 34, 4755-4767 (1995)](https://doi.org/10.1364/AO.34.004755) via https://refractiveindex.info
