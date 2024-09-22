@@ -3,15 +3,15 @@
   <color-profile xlink:href="C:/Program Files/Krita (x64)/share/color/icc/krita/ACEScg-elle-V4-g10.icc" local="b81c5e31fa1dc184d854cddeb9ea3f0e" name="ACEScg-elle-V4-g10.icc"/>
  </defs>
  <linearGradient id="Thin Iron" spreadMethod="pad" gradientUnits="objectBoundingBox">
-  <stop stop-opacity="1" stop-color="#383838 icc-color(ACEScg-elle-V4-g10.icc, 0.08333652466535568,0.08678655326366425,0.08757056295871735)" offset="0.08502834278092697" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#383838 icc-color(ACEScg-elle-V4-g10.icc, 0.12976351380348206,0.136520117521286,0.13840772211551666)" offset="0.17039013004334777" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#383939 icc-color(ACEScg-elle-V4-g10.icc, 0.17527949810028076,0.18481995165348053,0.18775035440921783)" offset="0.2557519173057686" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.21825259923934937,0.22996799647808075,0.2337367683649063)" offset="0.3411137045681894" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.2580448091030121,0.2713647186756134,0.2757057547569275)" offset="0.4264754918306102" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.2944885492324829,0.30891191959381104,0.3135319948196411)" offset="0.511837279093031" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.3276367783546448,0.3427309989929199,0.3473261296749115)" offset="0.5971990663554518" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.35764002799987793,0.3730313181877136,0.3772953152656555)" offset="0.6825608536178727" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.4447251260280609,0.45864248275756836,0.4591369330883026)" offset="0.9996665555185061" krita:stop-type="color-stop"/>
-  <stop stop-opacity="1" stop-color="#393939 icc-color(ACEScg-elle-V4-g10.icc, 0.44479861855506897,0.458712637424469,0.45920124650001526)" offset="1.0" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#505353 icc-color(ACEScg-elle-V4-g10.icc, 0.08333652466535568,0.08678655326366425,0.08757056295871735)" offset="0.08502834278092697" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#636768 icc-color(ACEScg-elle-V4-g10.icc, 0.12976351380348206,0.136520117521286,0.13840772211551666)" offset="0.17039013004334777" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#727778 icc-color(ACEScg-elle-V4-g10.icc, 0.17527949810028076,0.18481995165348053,0.18775035440921783)" offset="0.2557519173057686" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#7E8485 icc-color(ACEScg-elle-V4-g10.icc, 0.21825259923934937,0.22996799647808075,0.2337367683649063)" offset="0.3411137045681894" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#888E8F icc-color(ACEScg-elle-V4-g10.icc, 0.2580448091030121,0.2713647186756134,0.2757057547569275)" offset="0.4264754918306102" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#919798 icc-color(ACEScg-elle-V4-g10.icc, 0.2944885492324829,0.30891191959381104,0.3135319948196411)" offset="0.511837279093031" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#989E9F icc-color(ACEScg-elle-V4-g10.icc, 0.3276367783546448,0.3427309989929199,0.3473261296749115)" offset="0.5971990663554518" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#9EA4A5 icc-color(ACEScg-elle-V4-g10.icc, 0.35764002799987793,0.3730313181877136,0.3772953152656555)" offset="0.6825608536178727" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#B0B4B4 icc-color(ACEScg-elle-V4-g10.icc, 0.4447251260280609,0.45864248275756836,0.4591369330883026)" offset="0.9996665555185061" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#B0B4B4 icc-color(ACEScg-elle-V4-g10.icc, 0.44479861855506897,0.458712637424469,0.45920124650001526)" offset="1.0" krita:stop-type="color-stop"/>
  </linearGradient>
 </svg>
