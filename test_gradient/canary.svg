@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:krita="http://krita.org/namespaces/svg/krita">
+ <defs>
+  <color-profile local="b81c5e31fa1dc184d854cddeb9ea3f0e" name="ACEScg-elle-V4-g10.icc"/>
+ </defs>
+ <linearGradient id="Color profile test" spreadMethod="pad" gradientUnits="objectBoundingBox">
+  <stop stop-opacity="1" stop-color="#FF0000 icc-color(ACEScg-elle-V4-g10.icc, 0.0,1.0,0.0)" offset="0.0" krita:stop-type="color-stop"/>
+  <stop stop-opacity="1" stop-color="#FF0000 icc-color(ACEScg-elle-V4-g10.icc, 0.0,1.0,0.0)" offset="1.0" krita:stop-type="color-stop"/>
+ </linearGradient>
+</svg>
