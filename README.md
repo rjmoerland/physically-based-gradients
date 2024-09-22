@@ -1,6 +1,15 @@
 # Physically-based Gradients
 
-A repository for Krita gradients that are based on thin film interference effects (soap bubble). Download from [here](https://github.com/rjmoerland/physically-based-gradients/releases/download/v1.1/Interference_Gradients.bundle).
+A repository for Krita gradients that are based on thin film interference effects (soap bubble). Download from [here](https://github.com/rjmoerland/physically-based-gradients/releases/download/v1.2/Interference_Gradients.bundle).
+
+## A note on color profiles
+
+After releasing this set of gradients, it was found that on at least MacOS, the color profile used for these gradients cannot be found even though it is supplied with Krita (see discussion on [krita-artists.org](https://krita-artists.org/t/interference-based-gradients/102328/5)). As a fallback, the gradients also contain an embedded sRGB version, that will be used instead. As this may lead to some loss of quality, and also to ensure that Krita is doing the right thing on your system, there is a 'coal mine canary' gradient  in this repo that will be bright green if the profile is found, but bright red if the sRGB profile is used. You can test your Krita installation by importing [this gradient](https://github.com/rjmoerland/physically-based-gradients/raw/refs/heads/main/test_gradient/canary.svg) and checking the resulting color of the thumbnail. Feedback in the linked discussion would be welcome!
+
+- Color profile is found successfully:
+![profile ok](test_gradient/profile_ok.png)
+- Color profile not found:
+![profile not ok](test_gradient/profile_not_ok.png)
 
 ## Contents
 
